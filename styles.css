@@ -40,3 +40,10 @@ li {
   float: right;
   width: 1000px;
 }
+.image2 {
+  float: right;
+}
+.skills {
+  float: left;
+  width: 900px;
+}
