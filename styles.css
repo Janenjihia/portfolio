@@ -2,7 +2,10 @@ header {
   color: black;
 }
 .logo {
-  float: cal;
+  float: left;
+ padding: 100px 0;
+ font-weight: bold;
+ line-height: 80px;
 }
 ul {
   list-style-type: none;
