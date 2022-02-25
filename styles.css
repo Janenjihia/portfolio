@@ -46,6 +46,7 @@ li {
 .skills {
   float: left;
   width: 900px;
+  overscroll-behavior-inline: ;
 }
 .evening {
   float: left;
@@ -62,4 +63,7 @@ li {
 footer {
   color: blueviolet;
   border: solid;
+}
+body {
+  background-color: rgba(0, 0, 255, 0.281);
 }
