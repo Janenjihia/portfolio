@@ -32,3 +32,10 @@ li a:hover {
 li {
   border-right: 1px solid #bbb;
 }
+.image1 {
+  float: left;
+}
+.aboutme {
+  float: right;
+  width: 1000px;
+}
