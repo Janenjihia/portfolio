@@ -2,7 +2,7 @@ header {
   color: black;
 }
 .logo {
-  float: left;
+  float: center;
   padding: 100px 0;
   font-weight: bold;
   line-height: 80px;
