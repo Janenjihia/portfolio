@@ -40,7 +40,17 @@ li {
   float: right;
   width: 1000px;
 }
+.coding {
+  float: right;
+}
 .skills {
   float: left;
   width: 900px;
+}
+.evening {
+  float: left;
+}
+.hobbies {
+  float: right;
+  width: 900px
 }
