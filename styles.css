@@ -60,6 +60,9 @@ li {
   margin-right: 0%;
   padding-right: 0%;
 }
+.image2 {
+  float: left;
+}
 footer {
   color: blueviolet;
   border: solid;
