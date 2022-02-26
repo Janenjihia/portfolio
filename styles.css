@@ -67,10 +67,3 @@ footer {
 body {
   background-color: rgba(0, 0, 255, 0.281);
 }
-/* apply a natural box layout model to all elements, but allowing components to change */
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
